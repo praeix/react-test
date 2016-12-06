@@ -1,8 +1,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-# React Tutorial
+# Pizza App with ReactJS
 
-This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
+This is code that I wrote in preparation for the assessment. The code is incomplete at the moment (no sorting functionality), but it gives some insight into how I approached the project with only self-instruction.
 
 ## To use
 
