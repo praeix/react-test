@@ -1,0 +1,7 @@
+[
+    {"id": 1, "category": "Pizza", "name": "Cheese", "desc": "Classic marinara sauce topped with whole milk mozzarella cheese.", "price": 9.99, "stocked": true},
+    {"id": 2, "category": "Pizza", "name": "Pepperoni", "desc": "Classic marinara sauce with authentic old-world style pepperoni.", "price": 10.99, "stocked": true},
+    {"id": 3, "category": "Pizza", "name": "Sausage", "desc": "Classic marinara sauce with all-natural Italian sausage.", "price": 10.99, "stocked": false},
+    {"id": 4, "category": "Pizza", "name": "Meat Lovers", "desc": "Classic marinara sauce, authentic old-world pepperoni, all-natural Italian sausage, slow-roasted ham, hardwood smoked bacon, seasoned pork and beef.", "price": 13.99, "stocked": true},
+    {"id": 5, "category": "Pizza", "name": "Supreme", "desc": "Classic marinara sauce, authentic old-world pepperoni, seasoned pork, beef, fresh mushrooms, fresh green bell peppers and fresh red onions.", "price": 14.99, "stocked": false}
+]

@@ -1,0 +1,23 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "private": true,
+  "license": "see LICENSE file",
+  "description": "Code from the React tutorial.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "bootstrap": "^3.3.7",
+    "express": "^4.4.5",
+    "json-loader": "0.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Michael Smith",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}
